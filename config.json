@@ -15,7 +15,7 @@
   "pruned_heads": {},
   "qa_dropout": 0.1,
   "seq_classif_dropout": 0.2,
-  "sinusoidal_pos_embds": true,
+  "sinusoidal_pos_embds": false,
   "tie_weights_": true,
   "torchscript": false,
   "vocab_size": 30522
