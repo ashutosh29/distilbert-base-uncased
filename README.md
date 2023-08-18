@@ -187,7 +187,7 @@ The details of the masking procedure for each sentence are the following:
 ### Pretraining
 
 The model was trained on 8 16 GB V100 for 90 hours. See the
-[training code](https://github.com/huggingface/transformers/tree/master/examples/distillation) for all hyperparameters
+[training code](https://github.com/huggingface/transformers/tree/main/examples/research_projects/distillation) for all hyperparameters
 details.
 
 ## Evaluation results
