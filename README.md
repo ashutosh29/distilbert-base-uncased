@@ -13,7 +13,7 @@ datasets:
 This model is a distilled version of the [BERT base model](https://huggingface.co/bert-base-uncased). It was
 introduced in [this paper](https://arxiv.org/abs/1910.01108). The code for the distillation process can be found
 [here](https://github.com/huggingface/transformers/tree/main/examples/research_projects/distillation). This model is uncased: it does
-not make a difference between english and English.
+not differentiate between english and English.
 
 ## Model description
 
