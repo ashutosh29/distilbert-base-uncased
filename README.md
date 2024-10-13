@@ -32,7 +32,7 @@ with three objectives:
 - Cosine embedding loss: the model was also trained to generate hidden states as close as possible as the BERT base
   model.
 
-This way, the model learns the same inner representation of the English language than its teacher model, while being
+This way, the model learns the same inner representation of the English language as its teacher model, while being
 faster for inference or downstream tasks.
 
 ## Intended uses & limitations
